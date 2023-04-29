@@ -17,6 +17,7 @@
     <!-- Smart Charging -->
     <bool name="config_supportSmartCharging">true</bool>
      
-     <!-- Whether to show TouchGestures preference -->
-    <bool name="config_supportsTouchGestures">true</bool>
+    <!-- Indicates whether device has a side mounted fingerprint sensor,
+         but a dedicated one, i.e. not embedded in the power button. -->
+    <bool name="config_is_side_fps" translatable="false">true</bool>
 </resources>
