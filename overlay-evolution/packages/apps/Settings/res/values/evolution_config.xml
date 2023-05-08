@@ -5,7 +5,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Device specific doze package -->
-    <string name="config_customDozePackage" translatable="false">org.lineageos.settings.device/org.lineageos.settings.device.DozePreferenceActivity</string>
+    <string name="config_customDozePackage" translatable="false">com.moto.actions/com.moto.actions.DozeSettingsActivity</string>
 
     <!-- Whether to show min refresh rate in display settings -->
     <bool name="config_show_min_refresh_rate_switch">true</bool>
