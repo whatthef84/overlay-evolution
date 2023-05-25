@@ -15,7 +15,7 @@
     <bool name="config_supports_dynamic_refresh_rate_controls">true</bool>
 
     <!-- Smart Charging -->
-    <bool name="config_supportSmartCharging">true</bool>
+    <bool name="config_smartChargingAvailable">true</bool>
      
     <!-- Indicates whether device has a side mounted fingerprint sensor,
          but a dedicated one, i.e. not embedded in the power button. -->
