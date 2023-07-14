@@ -19,10 +19,10 @@
     <bool name="config_hasTurboPowerCharger">true</bool>
 
     <!-- Is the battery LED intrusive? Used to decide if there should be a disable option -->
-    <bool name="config_intrusiveBatteryLed">false</bool>
+    <bool name="config_intrusiveBatteryLed">true</bool>
 
     <!-- Does the device have a notification led -->
-    <bool name="config_hasNotificationLed">false</bool>
+    <bool name="config_hasNotificationLed">true</bool>
 
     <!-- Does the battery LED support multiple colors?
          Used to decide if the user can change the colors -->
@@ -30,7 +30,7 @@
 
     <!-- Do the battery/notification LEDs support pulsing?
          Used to decide if we show pulse settings -->
-    <bool name="config_ledCanPulse">false</bool>
+    <bool name="config_ledCanPulse">true</bool>
 
     <!-- Whether device supports an alt. ambient display -->
     <bool name="config_alt_ambient_display">true</bool>
