@@ -13,11 +13,4 @@
     <!-- Whether to show min/max refresh rate in display settings -->
     <bool name="config_show_refresh_rate_controls">true</bool>
     <bool name="config_supports_dynamic_refresh_rate_controls">true</bool>
-
-    <!-- Smart Charging -->
-    <bool name="config_supportSmartCharging">true</bool>
-
-     <!-- Indicates whether device has a side mounted fingerprint sensor,
-         but a dedicated one, i.e. not embedded in the power button. -->
-    <bool name="config_is_side_fps" translatable="false">false</bool>
 </resources>
